@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(255, 218, 255);
+    color: rgb(10, 10, 37);
+    font-family: sans-serif;
+    text-align: center;
+
+}
+.container {
+    flex-direction: column;
+    align-content: center;
+  }
+.botoes{
+    margin: 30px;
+
+}
+
+#myButton{
+    background-color: rgb(78, 238, 46);
+    color: #f0f0f0;
+    font-size: 20px;
+    border-radius: 5px;
+    width: 10em; /* Ajusta conforme o texto */
+    height: 70px; /* Define uma altura fixa */
+    margin-left: 15px;
+  
+      
+}
+#myButton1{
+    background-color: rgb(238, 46, 46);
+    color: #f0f0f0;
+    font-size: 20px;
+    border-radius: 5px;
+    width: 10em; /* Ajusta conforme o texto */
+    height: 70px; /* Define uma altura fixa */
+    margin-right: 15px;
+
+      
+}
+#senhaGerada{
+    background-color: rgb(255, 255, 255);
+    color: #000000;
+    font-size: 2em;
+    text-align: center;
+    border-radius: 5px;
+    width: 20em; /* Ajusta conforme o texto */
+    height: 60px; /* Define uma altura fixa */
+     
+}
+
